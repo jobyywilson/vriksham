@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"05E5":function(n,r,o){"use strict";o.r(r),o.d(r,"FamilyTreeModuleNgFactory",(function(){return e}));var b=o("8Y7J");class c{}var e=b.xb(c,[],(function(n){return b.Lb([b.Mb(512,b.j,b.bb,[[8,[]],[3,b.j],b.z]),b.Mb(1073742336,c,c,[])])}))}}]);
