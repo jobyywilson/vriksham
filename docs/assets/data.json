@@ -1,7 +1,7 @@
 [
     {"nodeId":"1D-1","name":"Thommy","parentNodeId":null},
-    {"nodeId":"2D-1","name":"Chacko","parentNodeId":"1D-1"},
-    {"nodeId":"3D-1","name":"Chacko","parentNodeId":"2D-1"},
+    {"nodeId":"2D","name":"Chacko","parentNodeId":"1D-1"},
+    {"nodeId":"3D-1","name":"Chacko","parentNodeId":"2D"},
     {"nodeId":"4D-1.1","name":"Chacko","parentNodeId":"3D-1"},
     {"nodeId":"5D-1.1.1","name":"Chacko","parentNodeId":"4D-1.1"},
     {"nodeId":"6D-1.1.1.1","name":"Ninan","parentNodeId":"5D-1.1.1"},
