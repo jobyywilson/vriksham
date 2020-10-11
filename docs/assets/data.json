@@ -356,7 +356,7 @@
     {"nodeId":"8D-1.4.4.1.1.3","name":"V N Ninan","parentNodeId":"7D-1.4.4.1.1"},
     {"nodeId":"9D-1.4.4.1.1.3.1","name":"Melvin Ninan","parentNodeId":"8D-1.4.4.1.1.3"},
     {"nodeId":"10D-1.4.4.1.1.3.1.1","name":"Abishay","parentNodeId":"9D-1.4.4.1.1.3.1"},
-    {"nodeId":"3D-2","name":"Thommy","parentNodeId":"2D-1"},
+    {"nodeId":"3D-2","name":"Thommy","parentNodeId":"2D"},
     {"nodeId":"4D-2.1","name":"Esho Azhakanal","parentNodeId":"3D-2"},
     {"nodeId":"5D-2.1.1","name":"Thommy Azhakanal Cheriyil","parentNodeId":"4D-2.1"},
     {"nodeId":"6D-2.1.1.1","name":"Esho Azhakanal","parentNodeId":"5D-2.1.1"},
