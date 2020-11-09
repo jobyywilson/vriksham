@@ -11,9 +11,10 @@
     {"nodeId":"2C","name":"Chacko Cheriaveioor","parentNodeId":"3X-1.1"},
     {"nodeId":"2D","name":"Chacko Peralummood Puthenpura","parentNodeId":"3X-1.1"},
     {"nodeId":"2E","name":"Thommy Kunnumpurath","parentNodeId":"3X-1.1"},
+          {"nodeId":"2F","name":"Kurien Vazhuvelil","parentNodeId":"3X-1.1"},
      {"nodeId":"2G","name":"Geevarughese Peralummoottil Kudumbam","parentNodeId":"3X-1.1"},
     {"nodeId":"2H","name":"Idichandy Palnummoottil","parentNodeId":"3X-1.1"},
-      {"nodeId":"2F","name":"Kurien Vazhuvelil","parentNodeId":"3X-1.1"},
+
     {"nodeId":"3D-1","name":"Chacko","parentNodeId":"2D"},
     {"nodeId":"4D-1.1","name":"Chacko","parentNodeId":"3D-1"},
     {"nodeId":"5D-1.1.1","name":"Chacko","parentNodeId":"4D-1.1"},
